@@ -1,0 +1,3 @@
+/Users/dhj/HD2/src/Deskew/Projects/TheGigRack/ThirdPartyLibraries/GP_SDK/examples/c/hellogp/build/CMakeFiles/HelloGP-C.dir
+/Users/dhj/HD2/src/Deskew/Projects/TheGigRack/ThirdPartyLibraries/GP_SDK/examples/c/hellogp/build/CMakeFiles/edit_cache.dir
+/Users/dhj/HD2/src/Deskew/Projects/TheGigRack/ThirdPartyLibraries/GP_SDK/examples/c/hellogp/build/CMakeFiles/rebuild_cache.dir
